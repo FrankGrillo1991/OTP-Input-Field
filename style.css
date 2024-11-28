@@ -15,3 +15,9 @@
     cursor: not-allowed;
     pointer-events: none;
 }
+
+.input:focus {
+    border-bottom: 3px solid orange;
+    outline: none;
+}
+
